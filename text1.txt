@@ -1,0 +1,8 @@
+You are alone in a city.
+Atleast you think you are alone.
+In a building somewhere, there is a man hidden with a sniper.
+
+Do you want to scout him out from a distance, or smoke him out going door to door?
+Choose player and weapon based on your preferred method.
+
+PS: Sneakiness is better suited for a player with a sniper, but low sneakiness is easier to control.
